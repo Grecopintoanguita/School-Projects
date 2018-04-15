@@ -5,5 +5,5 @@ The following circuit is designed in ADS:
 
 The circuit is then printed on a board using Autodaesk Eagle:
 ![alt text](https://github.com/Grecopintoanguita/School-Projects/blob/master/images/FMTransmitterEagle.PNG)
-A copper dobule sided PCB is milled:
+A copper double sided PCB is milled:
 
