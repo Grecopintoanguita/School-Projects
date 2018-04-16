@@ -12,7 +12,7 @@ Then drawn in Audodesk Eagle:
 The circuit is then printed on a board using Autodaesk Eagle:
 
 ![alt text](https://github.com/Grecopintoanguita/School-Projects/blob/master/images/FMTransmitterEagle.PNG "FM Transmitter on Autodesk Eagle")
-The circuit is milled onto a souble sided copper PCB:
+The circuit is milled onto a double sided copper PCB:
 
 ![alt text](https://github.com/Grecopintoanguita/School-Projects/blob/master/images/FMTransmitterPCB.jpg "FM Transmitter on PCB")
 
