@@ -4,7 +4,8 @@ into a PCB to be used as the transmitter attached to the animal to be tracked.
 The following circuit is designed in ADS:
 ![alt text](https://github.com/Grecopintoanguita/School-Projects/blob/master/images/FMTransmitterCircuitADS.PNG "FM Transmitter Circuit")
 
-Then drawn in Audodesk Eagle
+Then drawn in Audodesk Eagle:
+
 ![alt text](https://github.com/Grecopintoanguita/School-Projects/blob/master/images/FMTransmitterCircuit.PNG "FM Transmitter Circuit")
 
 The circuit is then printed on a board using Autodaesk Eagle:
