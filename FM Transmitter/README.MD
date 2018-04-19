@@ -1,4 +1,4 @@
-# FM Transmitter used for Animal Tracking
+# FM Transmitter Used In Animal Tracking
 An animal tracking system is designed, where an FM Transmitter is attached to an animal for tracking. The transmitter is printed on a PCB.
 
 The following circuit is designed in ADS:
