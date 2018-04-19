@@ -1,5 +1,5 @@
 # FM Transmitter Used In Animal Tracking
-An animal tracking device is designed using a low power FM Transmitter. The transmitter is printed on a PCB
+An animal tracking device is designed using a low power FM Transmitter. The transmitter is printed onto a PCB
 and tested for frequency response.
 
 The following circuit is designed in ADS to create a low power FM Transmitter:
