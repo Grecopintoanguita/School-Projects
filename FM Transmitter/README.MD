@@ -3,7 +3,7 @@ An animal tracking system is designed, where an FM Transmitter is attached to an
 
 The following circuit is designed in ADS:
 
-![alt text](https://github.com/Grecopintoanguita/School-Projects/blob/master/images/FMTransmitterCircuitADS.PNG "FM Transmitter Circuit on ADS")
+![alt text](https://github.com/Grecopintoanguita/School-Projects/blob/master/images/FMTransmitterCircuitADSNominalVal.PNG "FM Transmitter Circuit on ADS")
 
 Then drawn in Audodesk Eagle:
 
