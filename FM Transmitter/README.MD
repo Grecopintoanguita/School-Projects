@@ -1,7 +1,7 @@
 # FM Transmitter Used In Animal Tracking
 An animal tracking system is designed, where an FM Transmitter is attached to an animal for tracking. The transmitter is printed on a PCB.
 
-The following circuit is designed in ADS using nominal values of the components chosen:
+The following circuit is designed in ADS to create a low power FM Transmitter:
 
 ![alt text](https://github.com/Grecopintoanguita/School-Projects/blob/master/images/FMTransmitterCircuitADSNominalVal.PNG "FM Transmitter Circuit on ADS")
 
@@ -34,5 +34,5 @@ The signal oscillates at around 260 MHz, corroborating the Spectrum Analyzer.
 
 The signal resembles an AM signal more than an FM signal. The first step is to use a comparator to check if the
 signal is indeed FM, if not, reevaluate circuit design.  I suspect that the signal will be distorted after 
-demodulation, since the carrier frequency is oscillating in relatively high bandwidth.
+demodulation, since the carrier frequency is oscillating in a relatively high bandwidth.
 
