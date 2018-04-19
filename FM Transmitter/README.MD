@@ -9,9 +9,9 @@ Then drawn in Audodesk Eagle:
 
 ![alt text](https://github.com/Grecopintoanguita/School-Projects/blob/master/images/FMTransmitterCircuit.PNG "FM Transmitter Circuit on Eagle")
 
-The circuit is then printed on a board using Autodaesk Eagle:
+The circuit is then milled onto a board:
 
-![alt text](https://github.com/Grecopintoanguita/School-Projects/blob/master/images/FMTransmitterEagle.PNG "FM Transmitter on Autodesk Eagle")
+![alt text](https://github.com/Grecopintoanguita/School-Projects/blob/master/images/FMTransmitterEagle.PNG "FM Transmitter on Eagle")
 The circuit is milled onto a double sided copper PCB:
 
 ![alt text](https://github.com/Grecopintoanguita/School-Projects/blob/master/images/FMTransmitterPCB.jpg "FM Transmitter on PCB")
@@ -19,3 +19,8 @@ The circuit is milled onto a double sided copper PCB:
 Front of PCB:
 
 ![alt text](https://github.com/Grecopintoanguita/School-Projects/blob/master/images/FMTransmitterPCBFront.jpg "PCB Front")
+
+The closest available components are sottered onto board for testing.
+
+![alt text](https://github.com/Grecopintoanguita/School-Projects/blob/master/images/FMTransmitterPrototype.jpg "Low Power FM Transmitter")
+
