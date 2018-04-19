@@ -32,7 +32,7 @@ The signal oscillates at around 260 MHz, corroborating the Spectrum Analyzer.
 
 ![alt text](https://github.com/Grecopintoanguita/School-Projects/blob/master/images/FMTransmitterFirstResults.jpg "First Results")
 
-The next step will be to stabalize the signal and demodulate it to test if the sent tone is being properly modulated.
-I suspect that the signal will be distorted after demodulation, since the carrier frequency is oscillating with
-a high bandwidth.
+The signal resembles an AM signal more than an FM signal. The first step is to use a comparator to check if the
+signal is indeed FM, if not, reevaluate circuit design.  I suspect that the signal will be distorted after 
+demodulation, since the carrier frequency is oscillating in relatively high bandwidth.
 
