@@ -2,7 +2,7 @@
 An animal tracking device is designed using a low power FM Transmitter. The transmitter is printed onto a PCB
 and tested for frequency response.
 
-The following circuit is designed in ADS to create a low power FM Transmitter:
+The following circuit is designed in ADS to create the Transmitter:
 
 ![alt text](https://github.com/Grecopintoanguita/School-Projects/blob/master/images/FMTransmitterCircuitADSIdeal.PNG "FM Transmitter Circuit on ADS")
 
