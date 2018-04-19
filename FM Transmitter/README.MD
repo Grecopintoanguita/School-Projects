@@ -10,7 +10,7 @@ Then drawn in Audodesk Eagle:
 
 ![alt text](https://github.com/Grecopintoanguita/School-Projects/blob/master/images/FMTransmitterCircuit.PNG "FM Transmitter Circuit on Eagle")
 
-![alt text](https://github.com/Grecopintoanguita/School-Projects/blob/master/images/FMTransmitterEagle.PNG "FM Transmitter on Eagle")
+![alt text](https://github.com/Grecopintoanguita/School-Projects/blob/master/images/FMTransmitterEagleSchematic.PNG "FM Transmitter on Eagle")
 
 The circuit is milled onto a double sided copper PCB:
 
